@@ -1,0 +1,17 @@
+C:\Users\npeterson-a\Dropbox\New Folder Structure\Technology\Visual Studio Projects\Runbook Commander\DEV\Runbook Commander Full Solution\RBXMLGenV2\RBCXMLGenV2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\npeterson-a\Dropbox\New Folder Structure\Technology\Visual Studio Projects\Runbook Commander\DEV\Runbook Commander Full Solution\RBXMLGenV2\RBCXMLGenV2\obj\x86\Debug\RBCXMLGen.Properties.Resources.resources
+C:\Users\npeterson-a\Dropbox\New Folder Structure\Technology\Visual Studio Projects\Runbook Commander\DEV\Runbook Commander Full Solution\RBXMLGenV2\RBCXMLGenV2\obj\x86\Debug\RBCXMLGenV2.RBCXMLGenV2.resources
+C:\Users\npeterson-a\Dropbox\New Folder Structure\Technology\Visual Studio Projects\Runbook Commander\DEV\Runbook Commander Full Solution\RBXMLGenV2\RBCXMLGenV2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\npeterson-a\Dropbox\New Folder Structure\Technology\Visual Studio Projects\Runbook Commander\DEV\Runbook Commander Full Solution\RBXMLGenV2\RBCXMLGenV2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\npeterson-a\Dropbox\New Folder Structure\Technology\Visual Studio Projects\Runbook Commander\DEV\Runbook Commander Full Solution\RBXMLGenV2\RBCXMLGenV2\bin\Debug\RBCXMLGen.exe
+C:\Users\npeterson-a\Dropbox\New Folder Structure\Technology\Visual Studio Projects\Runbook Commander\DEV\Runbook Commander Full Solution\RBXMLGenV2\RBCXMLGenV2\bin\Debug\RBCXMLGen.pdb
+C:\Users\npeterson-a\Dropbox\New Folder Structure\Technology\Visual Studio Projects\Runbook Commander\DEV\Runbook Commander Full Solution\RBXMLGenV2\RBCXMLGenV2\obj\x86\Debug\RBCXMLGen.exe
+C:\Users\npeterson-a\Dropbox\New Folder Structure\Technology\Visual Studio Projects\Runbook Commander\DEV\Runbook Commander Full Solution\RBXMLGenV2\RBCXMLGenV2\obj\x86\Debug\RBCXMLGen.pdb
+C:\Users\npeterson-a\Desktop\Runbook Commander\RBXMLGenV2\RBCXMLGenV2\bin\Debug\RBCXMLGen.exe
+C:\Users\npeterson-a\Desktop\Runbook Commander\RBXMLGenV2\RBCXMLGenV2\bin\Debug\RBCXMLGen.pdb
+C:\Users\npeterson-a\Desktop\Runbook Commander\RBXMLGenV2\RBCXMLGenV2\obj\x86\Debug\RBCXMLGen.Properties.Resources.resources
+C:\Users\npeterson-a\Desktop\Runbook Commander\RBXMLGenV2\RBCXMLGenV2\obj\x86\Debug\RBCXMLGenV2.RBCXMLGenV2.resources
+C:\Users\npeterson-a\Desktop\Runbook Commander\RBXMLGenV2\RBCXMLGenV2\obj\x86\Debug\RBCXMLGen.csproj.GenerateResource.Cache
+C:\Users\npeterson-a\Desktop\Runbook Commander\RBXMLGenV2\RBCXMLGenV2\obj\x86\Debug\RBCXMLGen.exe
+C:\Users\npeterson-a\Desktop\Runbook Commander\RBXMLGenV2\RBCXMLGenV2\obj\x86\Debug\RBCXMLGen.pdb
+C:\Users\npeterson-a\Desktop\Runbook Commander\RBXMLGenV2\RBCXMLGenV2\obj\x86\Debug\RBCXMLGen.csprojResolveAssemblyReference.cache

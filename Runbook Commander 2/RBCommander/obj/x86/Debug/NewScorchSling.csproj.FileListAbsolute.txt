@@ -1,0 +1,20 @@
+C:\Users\npeterson-a\documents\visual studio 2010\Projects\NewScorchSling\NewScorchSling\bin\Debug\NewScorchSling.exe
+C:\Users\npeterson-a\documents\visual studio 2010\Projects\NewScorchSling\NewScorchSling\bin\Debug\NewScorchSling.pdb
+C:\Users\npeterson-a\documents\visual studio 2010\Projects\NewScorchSling\NewScorchSling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\npeterson-a\documents\visual studio 2010\Projects\NewScorchSling\NewScorchSling\obj\x86\Debug\NewScorchSling.Properties.Resources.resources
+C:\Users\npeterson-a\documents\visual studio 2010\Projects\NewScorchSling\NewScorchSling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\npeterson-a\documents\visual studio 2010\Projects\NewScorchSling\NewScorchSling\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\npeterson-a\documents\visual studio 2010\Projects\NewScorchSling\NewScorchSling\obj\x86\Debug\NewScorchSling.exe
+C:\Users\npeterson-a\documents\visual studio 2010\Projects\NewScorchSling\NewScorchSling\obj\x86\Debug\NewScorchSling.pdb
+C:\Users\npeterson-a\documents\visual studio 2010\Projects\NewScorchSling\NewScorchSling\obj\x86\Debug\NewScorchSling.frmMain.resources
+C:\Users\npeterson-a\Desktop\NewScorchSling\NewScorchSling\obj\x86\Debug\NewScorchSling.exe
+C:\Users\npeterson-a\Desktop\NewScorchSling\NewScorchSling\obj\x86\Debug\NewScorchSling.pdb
+C:\Users\npeterson-a\Desktop\NewScorchSling\NewScorchSling\bin\Debug\NewScorchSling.exe
+C:\Users\npeterson-a\Desktop\NewScorchSling\NewScorchSling\bin\Debug\NewScorchSling.pdb
+C:\Users\npeterson-a\Desktop\NewScorchSling\NewScorchSling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\npeterson-a\Desktop\NewScorchSling\NewScorchSling\obj\x86\Debug\NewScorchSling.frmMain.resources
+C:\Users\npeterson-a\Desktop\NewScorchSling\NewScorchSling\obj\x86\Debug\NewScorchSling.Properties.Resources.resources
+C:\Users\npeterson-a\Desktop\NewScorchSling\NewScorchSling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\npeterson-a\Desktop\NewScorchSling\NewScorchSling\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\npeterson-a\Desktop\Runbook Commander EXE\NewScorchSling\obj\x86\Debug\NewScorchSling.exe
+C:\Users\npeterson-a\Desktop\Runbook Commander EXE\NewScorchSling\obj\x86\Debug\NewScorchSling.pdb

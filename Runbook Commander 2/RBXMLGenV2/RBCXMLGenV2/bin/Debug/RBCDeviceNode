@@ -1,0 +1,30 @@
+<ActionDescription Class="Group" DisplayName="Runbook Commander" MnemonicDisplayName="Runbook Commander" Description="Runbook Commander" SqmDataPoint="53">
+
+<ShowOn>
+<string>ContextMenu</string>
+</ShowOn>
+
+<ActionGroups>
+
+<ActionDescription Class="Executable" DisplayName="123" MnemonicDisplayName="123" Description="123">
+<ShowOn>
+<string>ContextMenu</string>
+</ShowOn>
+<Executable>
+<FilePath>"C:\Users\npeterson-a\Dropbox\New Folder Structure\Technology\Visual Studio Projects\Runbook Commander\DEV\Runbook Commander Full Solution\RBXMLGenV2\RBCXMLGenV2\bin\Debug\RBCommander.exe"</FilePath>
+<Parameters>http://twosys2012sco:81/Orchestrator2012/Orchestrator.svc 0693fb7e-6ab5-4561-a627-d53b5719e54a "##SUB:Name##"</Parameters>
+</Executable>
+</ActionDescription>
+
+<ActionDescription Class="Executable" DisplayName="345" MnemonicDisplayName="345" Description="345">
+<ShowOn>
+<string>ContextMenu</string>
+</ShowOn>
+<Executable>
+<FilePath>"C:\Users\npeterson-a\Dropbox\New Folder Structure\Technology\Visual Studio Projects\Runbook Commander\DEV\Runbook Commander Full Solution\RBXMLGenV2\RBCXMLGenV2\bin\Debug\RBCommander.exe"</FilePath>
+<Parameters>http://twosys2012sco:81/Orchestrator2012/Orchestrator.svc d2aad1bd-09d0-4a96-add9-72d84fd9c0e4 "##SUB:Name##"</Parameters>
+</Executable>
+</ActionDescription>
+
+</ActionGroups>
+</ActionDescription>

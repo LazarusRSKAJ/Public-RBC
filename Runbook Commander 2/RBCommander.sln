@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RBCommander", "RBCommander\RBCommander.csproj", "{FF7F7DAA-717D-439A-8BD5-CF1E94EA29A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RBCAbout", "RBCAbout\RBCAbout.csproj", "{F2EA3AC8-229A-4404-87E0-92119B1FBD6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RBCXMLGen", "RBXMLGenV2\RBCXMLGenV2\RBCXMLGen.csproj", "{C6C91478-F02B-4E07-B05F-093EAC28C334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF7F7DAA-717D-439A-8BD5-CF1E94EA29A1}.Debug|x86.ActiveCfg = Debug|x86
+		{FF7F7DAA-717D-439A-8BD5-CF1E94EA29A1}.Debug|x86.Build.0 = Debug|x86
+		{FF7F7DAA-717D-439A-8BD5-CF1E94EA29A1}.Release|x86.ActiveCfg = Release|x86
+		{FF7F7DAA-717D-439A-8BD5-CF1E94EA29A1}.Release|x86.Build.0 = Release|x86
+		{F2EA3AC8-229A-4404-87E0-92119B1FBD6A}.Debug|x86.ActiveCfg = Debug|x86
+		{F2EA3AC8-229A-4404-87E0-92119B1FBD6A}.Debug|x86.Build.0 = Debug|x86
+		{F2EA3AC8-229A-4404-87E0-92119B1FBD6A}.Release|x86.ActiveCfg = Release|x86
+		{F2EA3AC8-229A-4404-87E0-92119B1FBD6A}.Release|x86.Build.0 = Release|x86
+		{C6C91478-F02B-4E07-B05F-093EAC28C334}.Debug|x86.ActiveCfg = Debug|x86
+		{C6C91478-F02B-4E07-B05F-093EAC28C334}.Debug|x86.Build.0 = Debug|x86
+		{C6C91478-F02B-4E07-B05F-093EAC28C334}.Release|x86.ActiveCfg = Release|x86
+		{C6C91478-F02B-4E07-B05F-093EAC28C334}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
